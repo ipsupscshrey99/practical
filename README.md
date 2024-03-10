@@ -1,2 +1,2 @@
-# practical
+# practical Deep Learning
 practical codes
